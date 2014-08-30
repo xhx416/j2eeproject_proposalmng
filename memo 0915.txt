@@ -1,0 +1,6 @@
+big zombies
+----------
+Change vehicle hard-coded data
+ViewProposalDetails add bean structure
+Home Page not working
+isQuoteGenerated

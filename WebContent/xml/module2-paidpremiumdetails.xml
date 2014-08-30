@@ -1,0 +1,78 @@
+<fqpaidpremiumdetails>
+
+<fquserdetails>
+<fqinsuranceid>insurance1
+</fqinsuranceid>
+ <dateofpayment>01-Jan-2012
+</dateofpayment>
+<amountpaid>20000
+</amountpaid>
+</fquserdetails>
+
+<fquserdetails>
+<fqinsuranceid>insurance2
+</fqinsuranceid>
+ <dateofpayment>01-Jan-2012
+</dateofpayment>
+<amountpaid>20000
+</amountpaid>
+</fquserdetails>
+
+<fquserdetails>
+<fqinsuranceid>insurance3
+</fqinsuranceid>
+ <dateofpayment>01-Jan-2012
+</dateofpayment>
+<amountpaid>20000
+</amountpaid>
+</fquserdetails>
+
+<fquserdetails>
+<fqinsuranceid>insurance4
+</fqinsuranceid>
+ <dateofpayment>01-Jan-2012
+</dateofpayment>
+<amountpaid>20000
+</amountpaid>
+</fquserdetails>
+
+
+<fquserdetails>
+<fqinsuranceid>insurance5
+</fqinsuranceid>
+ <dateofpayment>01-Jan-2012
+</dateofpayment>
+<amountpaid>20000
+</amountpaid>
+</fquserdetails>
+
+
+<fquserdetails>
+<fqinsuranceid>insurance6
+</fqinsuranceid>
+ <dateofpayment>01-Jan-2012
+</dateofpayment>
+<amountpaid>20000
+</amountpaid>
+</fquserdetails>
+
+
+<fquserdetails>
+<fqinsuranceid>insurance7
+</fqinsuranceid>
+ <dateofpayment>01-Jan-2013
+</dateofpayment>
+<amountpaid>20000
+</amountpaid>
+</fquserdetails>
+
+<fquserdetails>
+<fqinsuranceid>insurance8
+</fqinsuranceid>
+ <dateofpayment>01-Jan-2013
+</dateofpayment>
+<amountpaid>20000
+</amountpaid>
+</fquserdetails>
+
+</fqpaidpremiumdetails>

@@ -1,0 +1,372 @@
+body {
+	font-family: Calibri, Helvetica, sans-serif;
+	margin-left: 7%;
+	margin-right: 7%;
+	background-color: #f2f2f2
+}
+#header {
+	height: 160px;
+	width: 100%;
+	background-color: #0099CC;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#header_index {
+	height: 220px;
+	width: 100%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#headerleft{
+	color: white;
+	height: 220px;
+	width: 80%;
+	float:left;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+#headerright{
+	background-color: white;
+	color: #0099CC;
+	height: 220px;
+	overflow:hidden;
+	width: 20%;
+	float:left;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#mainframe {
+	background-color: white;
+	border: 1px solid #33CCFF;
+	border-top: 1px solid #e6e6e6;
+	display: inline-block;
+	clear: both;
+	width: 100%;
+}
+#wrapper {
+	width: 100%;
+	min-height: 400px;
+	height: auto;
+	display: inline-block;
+	clear: both; 
+}
+
+#topbar {
+	background-color: #f2f2f2;
+	width: 100%;
+	float: left;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+
+
+#navibar {
+	background-color: #e6e6e6;
+	width: 100%;
+	float: left;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#sidebar {
+	width: 18%;
+	padding: 5px 0px 10px;
+	min-height: 450px;
+	height: 100%;
+	float: left;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#rightContainer {
+	width: 82%;
+	min-height: 500px;
+	border-left: medium solid #e6e6e6;
+	height: auto;
+	float: left;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#footer {
+	background-color: #0099CC;
+	color: white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+	float: left;
+	width: 100%;
+	color: white;
+	font-size: 12px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.navitopbutton_right {
+	border-left: 1px solid #336699;
+	padding: 5px 10px 5px 10px;
+	float: right;
+	color: #336699;
+	font-size: 15px;
+	cursor: pointer;
+	text-decoration: none;
+}
+#welcomeSpan {
+	border-right: 1px solid #336699;
+	padding: 5px 10px 5px 10px;
+	float: right;
+	color: #336699;
+	font-size: 15px;
+	text-decoration: none;
+}
+
+.navitopbutton_right:hover {
+	background-color: white;
+}
+
+#navitopbutton_right_first {
+	padding: 5px 10px 5px 10px;
+	float: right;
+	color: #336699;
+	font-size: 15px;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+#navitopbutton_right_first:hover {
+	background-color: white;
+}
+
+.navitopbutton_left {
+	border-left: 1px solid #336699;
+	padding: 5px 10px 5px 10px;
+	height: 100%;
+	float: left;
+	color: #336699;
+	font-size: 15px;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.navitopbutton_left:hover {
+	background-color: white;
+}
+
+#navitopbutton_left_first {
+	padding: 5px 10px 5px 10px;
+	height: 100%;
+	float: left;
+	color: #336699;
+	font-size: 15px;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+#navitopbutton_left_first:hover {
+	background-color: white;
+}
+
+.navisideButton {
+	background-color: white;
+	border-bottom: 1px solid #33CCFF;
+	text-align: left;
+	color: black;
+    font-weight:bold;
+	display: block;
+	width: 95%;
+	padding-top: 12px;
+	padding-bottom: 2px;
+	margin: 4% 5% 5% 2%;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+
+div#sidebar .navisideButton:hover {
+	background-color: #C2EBFF;
+}
+
+.headerFont {
+	font-size: 24px;
+	padding-left: 2px;
+	padding-top: 10px;
+	font-weight: bolder;
+}
+
+h1 {
+	font-family: "Arial";
+	font-style: normal;
+	font-size: 36px;
+	padding-top: 15px;
+}
+
+
+th {
+	background-color: #0099CC;
+	color: white;
+	padding: 10px 10px 5px 5px;
+	
+}
+
+.tr_head{
+	font-family: Calibri, Helvetica, sans-serif;
+	background-color:#e0e0e0;
+	padding: 10px 10px 5px 5px;
+	text-align: center;
+}
+
+.td_odd {
+	background-color:white;
+	padding: 10px 10px 5px 5px;
+	text-align: center;
+}
+
+.td_even {
+	background-color:#f2f2f2;
+	padding: 10px 10px 5px 5px;
+	text-align: center;
+}
+
+.left {
+	font-family: Calibri, Helvetica, sans-serif;
+	text-align: left;
+	width:30%;
+	font-size: 15px;
+	padding-left: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #336699;
+}
+
+.viewtable_right {
+	width: 200px;
+	height: 20px;
+	font-family: Calibri, Helvetica, sans-serif;
+	text-align: left;
+	font-size: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #336699;
+
+}
+
+
+.right {
+	font-family: Calibri, Helvetica, sans-serif;
+	text-align: left;	
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 15px;
+	color: #336699;
+}
+
+.viewtable_left {
+	font-family:Calibri, Helvetica, sans-serif;
+	text-align: left;
+	padding-left: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 15px;
+	color: black;
+}
+
+.tooltipbox{
+	border: 1px solid #33CCFF;
+	height: 30%;
+	width: 20%;
+	margin-left:45%;
+	margin-top:10%;
+	background-color: white;
+	position: fixed;	
+}
+
+.proposalDescription {
+	
+	width: 400px;
+	font-family: Times New Roman, Helvetica, sans-serif;
+	font-style: oblique;
+	text-align: left;
+	font-size: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #336699;
+}
+
+.button {
+	position: relative;
+	left: 100%;
+	float: left;
+	padding-right: 10px;
+	font-size: 15px;
+}
+
+#para1 {
+	font-size: 15px;
+	text-align: left;
+	font-family: Times New Roman, Helvetica, sans-serif;
+	padding-top: 0px;
+	padding-bottom: 10px;
+	color: #336699;
+	line-height: 150%
+}
+
+#para2 {
+	font-size: 20px;
+	text-align: left;
+	font-family: Times New Roman, Helvetica, sans-serif;
+	padding: 10px, 10px;
+	color: #336699;
+	line-height: 150%
+}
+
+#contactleft {
+	font-size: 15px;
+	text-align: left;
+	font-family: Times New Roman, Helvetica, sans-serif;
+	padding: 10px, 10px;
+	color: #336699;
+	line-height: 150%
+}
+
+#contactright {
+	font-size: 15px;
+	text-align: right;
+	font-family: Times New Roman, Helvetica, sans-serif;
+	padding: 10px, 10px;
+	color: #336699;
+	line-height: 150%
+}
+
+.datatableHeader {
+	background-color: #f2f2f2;
+	text-decoration: none;
+	color: #336699;
+}
+
+.error{
+	padding-left:2%;
+	width:40%;
+	font-size: 13px;
+}
+.bodyfont{
+	color: #336699;
+	font-size: 15px;
+}
+.bodyfont_ita{
+	color: #336699;
+	font-style: italic;
+	font-size: 15px
+}
